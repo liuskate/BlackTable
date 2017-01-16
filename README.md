@@ -1,0 +1,2 @@
+# BlackTable
+double-array blacklist
