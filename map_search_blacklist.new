@@ -1,0 +1,11 @@
+# source  query  title封禁  query封禁  敏感人物集合  敏感黑名单集合  a+b组合集合  a+b组合包含对应query
+
+sohu_pc	习近平	1	0	1	0	0	
+sohu_pc	胡锦涛	0	1	1	0	0	
+sohu_pc	机长	0	0	1	0	0	
+sohu_pc	空姐	0	0	0	1	0	
+sohu_pc	薄熙来	0	0	0	0	1	王立军
+sohu_wap	习近平	1	0	1	0	0	
+sohu_wap	胡锦涛	0	1	1	0	0	
+sohu_wap	机长	0	0	1	0	0	
+sohu_wap	空姐	0	0	0	1	0	
